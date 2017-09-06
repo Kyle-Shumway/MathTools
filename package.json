@@ -1,0 +1,24 @@
+{
+  "name": "factorbinomial",
+  "version": "1.0.0",
+  "description": "factors a simple binomial. part of a bigger project to make tools for all algebraic algorithms",
+  "main": "index.js",
+  "dependencies": {
+    "mathjs": "^3.16.3",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyle-Shumway/factorBinomial.git"
+  },
+  "author": "Kyle Shumway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyle-Shumway/factorBinomial/issues"
+  },
+  "homepage": "https://github.com/Kyle-Shumway/factorBinomial#readme"
+}
